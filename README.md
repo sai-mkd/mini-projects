@@ -1,2 +1,2 @@
-# mini-projects
-This repository contains small scale projects
+# Mini-Projects
+# This repository contains small scale projects
